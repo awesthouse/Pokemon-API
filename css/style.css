@@ -1,0 +1,14 @@
+html, body {
+    margin:0px;
+    padding:0px;
+    font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+a, a:link, a:active {
+    color:#222;
+}
+article p {
+    font-size:13px;
+}
+.container {
+    padding-top:50px;
+}
